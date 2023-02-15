@@ -23,7 +23,7 @@ if __name__ == "__main__":
             total=(pX-self.puntoX)**2+(pY+self.puntoY)**2
             print(f"La distancia total es: ",total)
 
-hola=Punto(3,6)
+hola=Punto(3,3)
 hola.Distancia()
 
 
